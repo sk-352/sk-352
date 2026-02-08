@@ -7,3 +7,4 @@ Career-transitioning data analyst, studying in vocational courses. Proficient in
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-352&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk-352&theme=2077&utcOffset=8)
