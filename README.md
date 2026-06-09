@@ -13,6 +13,9 @@ Career-transitioning data analyst with hands-on experience in data analysis and 
 
 ### Detalhes / Details
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-352&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk-352&theme=2077&utcOffset=8)
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-352&theme=2077"/></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk-352&theme=2077&utcOffset=8"/></td>
+  </tr>
+</table>
